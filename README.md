@@ -2,7 +2,7 @@
 在 WIndows 設定 JDK 到系統環境變數(PATH)
 
 ## 下載
-進到[Github上Set-JDK-PATH/Set-JDK-PATH.bat](https://github.com/Xi-Plus/Set-JDK-PATH/blob/master/Set-JDK-PATH.bat)，在```Raw```按鈕上按右鍵，選擇另存連結為，存檔。
+在[這裡](https://raw.githubusercontent.com/Xi-Plus/Set-JDK-PATH/master/Set-JDK-PATH.bat)按右鍵，選擇另存連結為，存檔。
 
 ## 執行
 1. 編輯```Set-JDK-PATH.bat```，修改[第5行](https://github.com/Xi-Plus/Set-JDK-PATH/blob/master/Set-JDK-PATH.bat#L5)為實際的JDK路徑
