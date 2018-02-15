@@ -27,6 +27,6 @@ echo del "%%~f0"
 ) > Check-javac.bat
 
 echo.
-echo Setting is completed. You can run "Check-javac.bat" at the same folder to check if the setting is successfully
+echo Setting is completed. You can run "Check-javac.bat" at the same folder to check if the setting is successful
 echo.
 pause
